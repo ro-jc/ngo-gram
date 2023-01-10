@@ -34,7 +34,7 @@
 + Images
 
 ## NGO Registration
-+ 
++
 
 ## User Registration
 + username
@@ -121,4 +121,3 @@
 + Input list of usernames as text or file
 
 ## User Verification Page
-+ 
