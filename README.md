@@ -1,2 +1,2 @@
 # Vol-N-GO
-Connect volunteers and NGOs (no shit)
+Connect volunteers and NGOs.
